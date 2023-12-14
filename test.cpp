@@ -54,7 +54,4 @@ int main() {
 	bool res = TopSort(G, n, inDegree);
  
 	return 0;
-
-    cout<<" "<<endl;
-	
 }
